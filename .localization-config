@@ -1,22 +1,6 @@
 {
   "Locales": [
-    "cs-CZ",
-    "de-DE",
-    "es-ES",
-    "fr-FR",
-    "hu-HU",
-    "it-IT",
-    "ja-JP",
-    "ko-KR",
-    "nl-NL",
-    "pl-PL",
-    "pt-BR",
-    "pt-PT",
-    "ru-RU",
-    "sv-SE",
-    "tr-TR",
-    "zh-CN",
-    "zh-TW"
+    "zh-CN"
   ],
   "Files": [
     "Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md",
